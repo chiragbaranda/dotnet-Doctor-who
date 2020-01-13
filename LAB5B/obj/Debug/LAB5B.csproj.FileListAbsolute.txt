@@ -1,0 +1,10 @@
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\bin\Debug\LAB5B.exe.config
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\bin\Debug\LAB5B.exe
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\bin\Debug\LAB5B.pdb
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\obj\Debug\LAB5B.csprojAssemblyReference.cache
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\obj\Debug\LAB5B.Form1.resources
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\obj\Debug\LAB5B.Properties.Resources.resources
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\obj\Debug\LAB5B.csproj.GenerateResource.cache
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\obj\Debug\LAB5B.csproj.CoreCompileInputs.cache
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\obj\Debug\LAB5B.exe
+C:\Users\CHIRAG\source\repos\LAB5B\LAB5B\obj\Debug\LAB5B.pdb
